@@ -29,7 +29,7 @@
   
 
 
-- 🌱 Atualmente estudando Python voltado para ciência de dados
+
 
 -->
 
