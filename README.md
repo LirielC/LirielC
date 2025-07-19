@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/njH8XIX.gif" width="400" alt="gif animado">
+  <img src="https://64.media.tumblr.com/08222e69955765f9cea85451e3bba68b/978354f712040cbf-aa/s500x750/b6dfecaf3823400f9e57e10f881432a4ccb99086.gif" width="400" alt="gif tumblr" />
 </p>
+
 
 <h1 align="center">Olá, me chamo Liriel 👋</h1>
 
